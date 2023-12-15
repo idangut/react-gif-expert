@@ -1,0 +1,33 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pruebas en <GifItem /> should match with snapshot 1`] = `
+<div>
+  <div
+    class="card"
+  >
+    <img
+      alt="Resident Evil"
+      src="https://resident-evil/claire.png"
+    />
+    <p>
+      Resident Evil
+    </p>
+  </div>
+</div>
+`;
+
+exports[`Tests in <GifItem /> should match with snapshot 1`] = `
+<div>
+  <div
+    class="card"
+  >
+    <img
+      alt="Resident Evil"
+      src="https://resident-evil/claire.png"
+    />
+    <p>
+      Resident Evil
+    </p>
+  </div>
+</div>
+`;
